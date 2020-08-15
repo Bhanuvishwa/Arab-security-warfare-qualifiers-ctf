@@ -1,7 +1,10 @@
 # Description;
   Type : forensics
+  
   Name : meownetwork
-  Descreption : A hacker managed to get into meownetwork and leaked sensitive files of their  respected baord members. The hacker uses ancient floppy disk technology, however our security team managed to get a disk image of the files he leaked. Can you find out what really leaked?
+  
+  Description : A hacker managed to get into meownetwork and leaked sensitive files of their  respected baord members. The hacker uses ancient floppy disk technology, however our security team managed to get a disk image of the files he leaked. Can you find out what really leaked?
+  
   Points : 300
   
 # Solution:
